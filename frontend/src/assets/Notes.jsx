@@ -3,7 +3,7 @@ import React from "react";
 const Notes = () => (
   <>
     <header>
-      <h1>AutoNote</h1>
+      <h1>Media 2 Note</h1>
       <nav>
         <a href="index.html">Home</a>
         <a href="upload.html">Upload</a>
